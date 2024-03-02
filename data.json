@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "id": "camisetas",
+      "name": "Camisetas",
+      "products": [
+        {
+          "id": 1,
+          "name": "Camiseta Preta",
+          "description": "Camiseta preta de algodão",
+          "price": 30.0,
+          "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Camiseta Aspen Branco",
+          "description": "Camiseta branca de algodão",
+          "price": 35.0,
+          "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Camiseta 3",
+          "price": 29.9,
+          "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Camiseta 4",
+          "price": 40.0,
+          "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "decoracao",
+      "name": "Decoração",
+      "products": [
+        {
+          "id": 5,
+          "name": "Garrafa de cerâmica",
+          "description": "Garrafa de cerâmica decorativa",
+          "price": 28.0,
+          "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Garrafa de aço inox",
+          "price": 19.0,
+          "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg"
+        }
+      ]
+    }
+  ]
+}
